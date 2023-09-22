@@ -19,7 +19,7 @@ export const SurferContainer = forwardRef<
     height?: string;
   }
 >(({ isLoading, flex, height, isExpanded, toggleExpanded }, ref) => (
-  <Flex flexDirection="column" justifyContent="space-between" fullHeight gap={tokens.spacingS}>
+  <Flex flexDirection="column" justifyContent="space-between" fullHeight gap={tokens.spacingS} style={{ overflow: 'hidden' }}>
     {toggleExpanded && !isLoading && (
       <Button
         isFullWidth
