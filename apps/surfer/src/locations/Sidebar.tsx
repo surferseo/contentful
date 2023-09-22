@@ -1,13 +1,13 @@
 import { EntrySys, SidebarAppSDK } from '@contentful/app-sdk';
+import { Note } from '@contentful/f36-components';
 import { useSDK } from '@contentful/react-apps-toolkit';
 import { useEffect, useRef, useState } from 'react';
 import { SurferContainer } from '../components/SurferContainer';
-import { useFieldSelection } from '../hooks/useFieldSelection';
-import { useSurfer } from '../hooks/useSurfer';
-import { SurferContext, SurferRpcCommands, SurferRpcMessage } from '../types';
-import { useContentHtml } from '../hooks/useContentHtml';
 import { useConfigurationDialog } from '../hooks/useConfigurationDialog';
-import { Note } from '@contentful/f36-components';
+import { useContentHtml } from '../hooks/useContentHtml';
+import { useSurfer } from '../hooks/useSurfer';
+import { isRichText } from '../hooks/useSurferCompatibility';
+import { SurferContext, SurferRpcCommands, SurferRpcMessage } from '../types';
 
 const FULL_SIZE_PX = 550;
 const WARNING_SIZE_PX = 70;
@@ -16,15 +16,16 @@ const EXPAND_BUTTON_SIZE_PX = 40;
 const buildShareToken = ({ id, space }: EntrySys) => `${space.sys.id}_${id}`;
 
 const Sidebar = () => {
+  const [isExpanded, setIsExpanded] = useState(true);
   const iframeContainerRef = useRef<HTMLDivElement>(null);
-  const { entry, window } = useSDK<SidebarAppSDK>();
-  const [selectedFields, FieldSelection, richTextFields] = useFieldSelection(Object.values(entry.fields));
-  const contentHtml = useContentHtml(richTextFields, selectedFields);
+  const { entry, window, parameters } = useSDK<SidebarAppSDK>();
+
+  const richTextFields = Object.values(entry.fields).filter(isRichText);
   const widgetSizePx = richTextFields.length ? FULL_SIZE_PX : WARNING_SIZE_PX;
+  const contentHtml = useContentHtml(richTextFields, parameters.installation.selectedContentFields[entry.getSys().contentType.sys.id]);
+
   const shareToken = buildShareToken(entry.getSys());
   const { openConfigurationDialog, isConfigurationOpen } = useConfigurationDialog(shareToken);
-
-  const [isExpanded, setIsExpanded] = useState(true);
 
   const onReady = ({ setHtml, configureView }: SurferContext) => {
     setHtml(contentHtml);
@@ -47,7 +48,7 @@ const Sidebar = () => {
 
   useEffect(() => {
     window.updateHeight(widgetSizePx);
-  }, [window, richTextFields, widgetSizePx]);
+  }, [window, widgetSizePx]);
 
   useEffect(() => {
     setHtml?.(contentHtml);
