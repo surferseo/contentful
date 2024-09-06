@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.0.15](https://github.com/surferseo/contentful/compare/intershop-connector-v1.0.14...intershop-connector-v1.0.15) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/app-sdk from 4.25.0 to 4.26.3 in /apps/intershop ([#2250](https://github.com/surferseo/contentful/issues/2250)) ([7c5c104](https://github.com/surferseo/contentful/commit/7c5c1040a090db0861f68283921fd72a17dfeb50))
+* **deps:** Bump @contentful/app-sdk from 4.26.3 to 4.28.0 in /apps/intershop ([#2274](https://github.com/surferseo/contentful/issues/2274)) ([dbf8a39](https://github.com/surferseo/contentful/commit/dbf8a394e6edd06cd7fd0a00acb3a32c45e4062f))
+* **deps:** Bump @contentful/app-sdk from 4.28.0 to 4.29.0 in /apps/intershop ([#2321](https://github.com/surferseo/contentful/issues/2321)) ([1d6117a](https://github.com/surferseo/contentful/commit/1d6117ae45e01ff42951e6bd172bb17afc50ab28))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/intershop ([#2537](https://github.com/surferseo/contentful/issues/2537)) ([c1dbc67](https://github.com/surferseo/contentful/commit/c1dbc67267fff58b88411b95f82f8bef84de6666))
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/intershop ([#2225](https://github.com/surferseo/contentful/issues/2225)) ([21c24bd](https://github.com/surferseo/contentful/commit/21c24bd8c0536cf51dfefa7a439ba853e58d7d8c))
+* **deps:** Bump @contentful/f36-components from 4.67.1 to 4.67.2 in /apps/intershop ([#2292](https://github.com/surferseo/contentful/issues/2292)) ([9cc7cc4](https://github.com/surferseo/contentful/commit/9cc7cc46851b373501b95c1aaafcdabf50b67bc3))
+* **deps:** Bump @contentful/f36-components from 4.67.2 to 4.67.3 in /apps/intershop ([#2333](https://github.com/surferseo/contentful/issues/2333)) ([42b0cb7](https://github.com/surferseo/contentful/commit/42b0cb7a74fe1341f78f7032d7961b1fe43934f2))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/intershop ([#2387](https://github.com/surferseo/contentful/issues/2387)) ([a4c4b8f](https://github.com/surferseo/contentful/commit/a4c4b8f0532abcd6ebb1d5292baa711aeb0b178c))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/intershop ([#2482](https://github.com/surferseo/contentful/issues/2482)) ([e2890ed](https://github.com/surferseo/contentful/commit/e2890ed29bae276f4261b998b32278281e433f8d))
+* **deps:** Bump @contentful/f36-image from 4.67.0 to 4.67.1 in /apps/intershop ([#2220](https://github.com/surferseo/contentful/issues/2220)) ([f3a3b95](https://github.com/surferseo/contentful/commit/f3a3b95dab36fd1ae14ff9026166b167bd57085b))
+* **deps:** bump contentful-management from 11.27.2 to 11.27.3 in /apps/intershop ([#2174](https://github.com/surferseo/contentful/issues/2174)) ([16ddd5c](https://github.com/surferseo/contentful/commit/16ddd5c59af22775492688b233d3c8e7dd240d83))
+* **deps:** bump contentful-management from 11.27.3 to 11.27.4 in /apps/intershop ([#2207](https://github.com/surferseo/contentful/issues/2207)) ([3080885](https://github.com/surferseo/contentful/commit/30808856b16a1b131e50457825b8a3abe14afabb))
+* **deps:** Bump contentful-management from 11.27.4 to 11.27.6 in /apps/intershop ([#2253](https://github.com/surferseo/contentful/issues/2253)) ([b434b46](https://github.com/surferseo/contentful/commit/b434b46c0340875861fe21cd48c8cbf7380b8210))
+* **deps:** Bump contentful-management from 11.27.6 to 11.28.0 in /apps/intershop ([#2266](https://github.com/surferseo/contentful/issues/2266)) ([4becec9](https://github.com/surferseo/contentful/commit/4becec936e91c254d4a4a4b44f50549ecb15d7c8))
+* **deps:** Bump contentful-management from 11.28.0 to 11.29.0 in /apps/intershop ([#2282](https://github.com/surferseo/contentful/issues/2282)) ([e6c8266](https://github.com/surferseo/contentful/commit/e6c82668e8a21d9a95aeb3126e62bf34ed840dda))
+* **deps:** Bump contentful-management from 11.29.0 to 11.29.1 in /apps/intershop ([#2306](https://github.com/surferseo/contentful/issues/2306)) ([d30c020](https://github.com/surferseo/contentful/commit/d30c0205d3086b148f0ff95931b73a4c7a1e8d3c))
+* **deps:** Bump contentful-management from 11.29.1 to 11.30.2 in /apps/intershop ([#2349](https://github.com/surferseo/contentful/issues/2349)) ([72bdd98](https://github.com/surferseo/contentful/commit/72bdd9800ec0dde9a2ca5058cbc1a37279ec1dbd))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/intershop ([#2405](https://github.com/surferseo/contentful/issues/2405)) ([5cb68e4](https://github.com/surferseo/contentful/commit/5cb68e4787a65d5c7df2125c5efb59b47c8ed1bc))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/intershop ([#2425](https://github.com/surferseo/contentful/issues/2425)) ([d7a90b0](https://github.com/surferseo/contentful/commit/d7a90b06041127c290d6e1876fa88b7d7d9df489))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/intershop ([#2536](https://github.com/surferseo/contentful/issues/2536)) ([1abc230](https://github.com/surferseo/contentful/commit/1abc2308af390230609de9676bd9b224d6160172))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.6 in /apps/intershop ([#2550](https://github.com/surferseo/contentful/issues/2550)) ([fa10258](https://github.com/surferseo/contentful/commit/fa102586e19a2b76ede9bd66d0473cc696171cd2))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/intershop ([#2595](https://github.com/surferseo/contentful/issues/2595)) ([de18d60](https://github.com/surferseo/contentful/commit/de18d60b96632832dce0582cabb66805e33019ab))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/intershop in the production-dependencies group ([#2612](https://github.com/surferseo/contentful/issues/2612)) ([f724fa5](https://github.com/surferseo/contentful/commit/f724fa52110c09a98b483c326ea58df212d1f5d2))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/intershop in the production-dependencies group ([#2695](https://github.com/surferseo/contentful/issues/2695)) ([a4367ed](https://github.com/surferseo/contentful/commit/a4367edcc761ec4a75eedbe847d2175b28475dc8))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/intershop in the production-dependencies group ([#2727](https://github.com/surferseo/contentful/issues/2727)) ([f7f5eb8](https://github.com/surferseo/contentful/commit/f7f5eb8ab201965c4d73798ef271d384a49b00b3))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/intershop in the production-dependencies group ([#2771](https://github.com/surferseo/contentful/issues/2771)) ([0394c18](https://github.com/surferseo/contentful/commit/0394c18f7df3974b1c6b02e7e027f91183bd02ee))
+* **deps:** bump micromatch from 4.0.5 to 4.0.8 in /apps/intershop ([#2646](https://github.com/surferseo/contentful/issues/2646)) ([217526d](https://github.com/surferseo/contentful/commit/217526d17e322467714f41ccfa2565e449259ab8))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2784](https://github.com/surferseo/contentful/issues/2784)) ([06b183d](https://github.com/surferseo/contentful/commit/06b183d3356689d34c5b324a156b2a98fec0f0eb))
+* **deps:** bump webpack from 5.88.2 to 5.94.0 in /apps/intershop ([#2702](https://github.com/surferseo/contentful/issues/2702)) ([5532575](https://github.com/surferseo/contentful/commit/553257548b55363e2e4f9c0f92c21dc1290773a4))
+
 ## [1.0.14](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.13...intershop-connector-v1.0.14) (2024-09-03)
 
 

@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.0.21](https://github.com/surferseo/contentful/compare/ceros-contentful-app-v1.0.20...ceros-contentful-app-v1.0.21) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/app-sdk from 4.25.0 to 4.26.3 in /apps/ceros ([#2248](https://github.com/surferseo/contentful/issues/2248)) ([b9d2063](https://github.com/surferseo/contentful/commit/b9d206349305f2b1b857b35b857ecc2d4b78bce5))
+* **deps:** Bump @contentful/app-sdk from 4.26.3 to 4.28.0 in /apps/ceros ([#2263](https://github.com/surferseo/contentful/issues/2263)) ([0c83a66](https://github.com/surferseo/contentful/commit/0c83a66ea4ebd660cd77a13301c264d3a1b2271c))
+* **deps:** Bump @contentful/app-sdk from 4.28.0 to 4.29.0 in /apps/ceros ([#2340](https://github.com/surferseo/contentful/issues/2340)) ([0e085c9](https://github.com/surferseo/contentful/commit/0e085c993a4af9f2a332d048b6408ab91cedaf1e))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/ceros ([#2531](https://github.com/surferseo/contentful/issues/2531)) ([72428b6](https://github.com/surferseo/contentful/commit/72428b6c550fd46edfe14b9179d12011f457415a))
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/ceros ([#2216](https://github.com/surferseo/contentful/issues/2216)) ([c033010](https://github.com/surferseo/contentful/commit/c033010589e8c90c44515b42ad546a253db1f821))
+* **deps:** Bump @contentful/f36-components from 4.67.1 to 4.67.2 in /apps/ceros ([#2291](https://github.com/surferseo/contentful/issues/2291)) ([994186f](https://github.com/surferseo/contentful/commit/994186fe011fbf63c0389b32c5ea6112da80ecbe))
+* **deps:** Bump @contentful/f36-components from 4.67.2 to 4.67.3 in /apps/ceros ([#2315](https://github.com/surferseo/contentful/issues/2315)) ([73ce9af](https://github.com/surferseo/contentful/commit/73ce9afaf1b297f7fbaf18044820b6f14b482565))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/ceros ([#2400](https://github.com/surferseo/contentful/issues/2400)) ([181cb0c](https://github.com/surferseo/contentful/commit/181cb0cb553dab626248521a38cf8fe6222bbadd))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/ceros ([#2481](https://github.com/surferseo/contentful/issues/2481)) ([ea3cf66](https://github.com/surferseo/contentful/commit/ea3cf6686067b84012b8106e492fdbc2246a7894))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/ceros in the production-dependencies group ([#2801](https://github.com/surferseo/contentful/issues/2801)) ([3d6f645](https://github.com/surferseo/contentful/commit/3d6f64582cccc6a6084f6185e9693f9b87611770))
+* **deps:** Bump @emotion/css from 11.11.2 to 11.13.0 in /apps/ceros ([#2311](https://github.com/surferseo/contentful/issues/2311)) ([8257a80](https://github.com/surferseo/contentful/commit/8257a8055c4211de66ee2dbc7be90314704a8820))
+* **deps:** bump axios and @contentful/app-scripts in /apps/ceros ([#2654](https://github.com/surferseo/contentful/issues/2654)) ([b787ad7](https://github.com/surferseo/contentful/commit/b787ad7bd6eaa9c72984ebbfb159504ea3d0ad76))
+* **deps:** bump contentful-management from 11.27.3 to 11.27.4 in /apps/ceros ([#2203](https://github.com/surferseo/contentful/issues/2203)) ([adfb7d9](https://github.com/surferseo/contentful/commit/adfb7d9881bd4e93fdf87dec76f75d5dece98c68))
+* **deps:** Bump contentful-management from 11.27.4 to 11.27.5 in /apps/ceros ([#2249](https://github.com/surferseo/contentful/issues/2249)) ([a9e7f8d](https://github.com/surferseo/contentful/commit/a9e7f8d1c1cf443488ad0d79148a862b10329028))
+* **deps:** Bump contentful-management from 11.27.5 to 11.27.6 in /apps/ceros ([#2257](https://github.com/surferseo/contentful/issues/2257)) ([7fa35fa](https://github.com/surferseo/contentful/commit/7fa35faa358db8b79d4a656c4d6fc65d2a8f23ac))
+* **deps:** Bump contentful-management from 11.27.6 to 11.28.0 in /apps/ceros ([#2262](https://github.com/surferseo/contentful/issues/2262)) ([171ec3d](https://github.com/surferseo/contentful/commit/171ec3d37aa26c5396d4a0dfe762c49a229ba5ed))
+* **deps:** Bump contentful-management from 11.28.0 to 11.29.0 in /apps/ceros ([#2279](https://github.com/surferseo/contentful/issues/2279)) ([c02d357](https://github.com/surferseo/contentful/commit/c02d3578c5770eb78407a0b49d7e203d1fe5de52))
+* **deps:** Bump contentful-management from 11.29.0 to 11.29.1 in /apps/ceros ([#2301](https://github.com/surferseo/contentful/issues/2301)) ([78d256d](https://github.com/surferseo/contentful/commit/78d256dcce07e72e8b2dbf313862729baba6c208))
+* **deps:** Bump contentful-management from 11.29.1 to 11.30.2 in /apps/ceros ([#2339](https://github.com/surferseo/contentful/issues/2339)) ([b6e40c4](https://github.com/surferseo/contentful/commit/b6e40c454d4d949d144332d374c13c36803c307a))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/ceros ([#2404](https://github.com/surferseo/contentful/issues/2404)) ([a4bc305](https://github.com/surferseo/contentful/commit/a4bc3052a2cd50ed3cb9b9d70e1f98cbc08b10e8))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/ceros ([#2433](https://github.com/surferseo/contentful/issues/2433)) ([90da9c6](https://github.com/surferseo/contentful/commit/90da9c6638284a053944b95ba160a7164a60a38d))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/ceros ([#2532](https://github.com/surferseo/contentful/issues/2532)) ([c78ac48](https://github.com/surferseo/contentful/commit/c78ac489d52656d97143973c74479375c6ad6c49))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.6 in /apps/ceros ([#2542](https://github.com/surferseo/contentful/issues/2542)) ([fa07116](https://github.com/surferseo/contentful/commit/fa0711649698cd896a75ffcc49e0330696791c6a))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/ceros ([#2586](https://github.com/surferseo/contentful/issues/2586)) ([8a4b461](https://github.com/surferseo/contentful/commit/8a4b461857b2f9db6d74079a3d9218a687cac821))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/ceros in the production-dependencies group ([#2607](https://github.com/surferseo/contentful/issues/2607)) ([4740aab](https://github.com/surferseo/contentful/commit/4740aabfea6aeede42146ed637c159e8d60014ef))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/ceros in the production-dependencies group ([#2694](https://github.com/surferseo/contentful/issues/2694)) ([c3a39c8](https://github.com/surferseo/contentful/commit/c3a39c80852178ae7c7c37c794c6b9aea95203d1))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/ceros in the production-dependencies group ([#2746](https://github.com/surferseo/contentful/issues/2746)) ([9ff4d64](https://github.com/surferseo/contentful/commit/9ff4d644e94b1a81210cb563cf52b9ae8847bb9d))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/ceros in the production-dependencies group ([#2779](https://github.com/surferseo/contentful/issues/2779)) ([a6d84c1](https://github.com/surferseo/contentful/commit/a6d84c14db227a5c39cd8c969cec98c2aa286991))
+
 ## [1.0.20](https://github.com/contentful/marketplace-partner-apps/compare/ceros-contentful-app-v1.0.19...ceros-contentful-app-v1.0.20) (2024-09-03)
 
 

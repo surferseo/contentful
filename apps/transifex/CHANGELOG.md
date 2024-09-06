@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.6](https://github.com/surferseo/contentful/compare/transifex-contentful-app-v1.2.5...transifex-contentful-app-v1.2.6) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.25.0 to 4.29.0 in /apps/transifex ([#2523](https://github.com/surferseo/contentful/issues/2523)) ([75cda87](https://github.com/surferseo/contentful/commit/75cda87997ff4c4bb2bfb9a5c45a58b692aed7c6))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/transifex ([#2549](https://github.com/surferseo/contentful/issues/2549)) ([a456e4a](https://github.com/surferseo/contentful/commit/a456e4a146c2c207f72d84e1f06058fa2eb08ec6))
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/transifex ([#2221](https://github.com/surferseo/contentful/issues/2221)) ([97e4e65](https://github.com/surferseo/contentful/commit/97e4e6520ef544ee2a096d57687c484aa0d9f243))
+* **deps:** bump @contentful/f36-components from 4.67.1 to 4.68.1 in /apps/transifex ([#2559](https://github.com/surferseo/contentful/issues/2559)) ([74ddbd9](https://github.com/surferseo/contentful/commit/74ddbd9dbd4553d88c0f6ad1df761a35eb474075))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/transifex in the production-dependencies group ([#2791](https://github.com/surferseo/contentful/issues/2791)) ([7e73000](https://github.com/surferseo/contentful/commit/7e73000676b97d523212243e0035a3b88f732104))
+* **deps:** bump contentful-management from 11.27.3 to 11.27.4 in /apps/transifex ([#2204](https://github.com/surferseo/contentful/issues/2204)) ([16e5659](https://github.com/surferseo/contentful/commit/16e56591c66e8fa1ef68d7c1c7f916d6ee9444b1))
+* **deps:** bump contentful-management from 11.27.4 to 11.30.2 in /apps/transifex ([#2377](https://github.com/surferseo/contentful/issues/2377)) ([853a2c4](https://github.com/surferseo/contentful/commit/853a2c45dab315424de4e01a88a43b8501b50b28))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.7 in /apps/transifex ([#2598](https://github.com/surferseo/contentful/issues/2598)) ([70ab769](https://github.com/surferseo/contentful/commit/70ab769a5934d0025ff9563c2a024f273f6bb83a))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/transifex in the production-dependencies group ([#2608](https://github.com/surferseo/contentful/issues/2608)) ([776053f](https://github.com/surferseo/contentful/commit/776053fab74147f6e649443f16ec8dd2c5acf9c9))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/transifex in the production-dependencies group ([#2684](https://github.com/surferseo/contentful/issues/2684)) ([85c3913](https://github.com/surferseo/contentful/commit/85c39131a55ac26a53d41e6ec34750664fc2be86))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/transifex in the production-dependencies group ([#2732](https://github.com/surferseo/contentful/issues/2732)) ([45ab22b](https://github.com/surferseo/contentful/commit/45ab22b0b4e6b8d36f7853c392a21343f239b1d0))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/transifex in the production-dependencies group ([#2763](https://github.com/surferseo/contentful/issues/2763)) ([d7019e8](https://github.com/surferseo/contentful/commit/d7019e8502c06202739238db955ce2476d924b38))
+* **deps:** bump eslint from 8.57.0 to 9.9.0 in /apps/transifex ([#2499](https://github.com/surferseo/contentful/issues/2499)) ([ea7f340](https://github.com/surferseo/contentful/commit/ea7f34032c9cd816c500c4f07d72925275055cbe))
+* **deps:** bump eslint from 9.9.0 to 9.9.1 in /apps/transifex in the production-dependencies group ([#2675](https://github.com/surferseo/contentful/issues/2675)) ([87034db](https://github.com/surferseo/contentful/commit/87034dba27fb06c78bd2a390095ff522069f4836))
+
 ## [1.2.5](https://github.com/contentful/marketplace-partner-apps/compare/transifex-contentful-app-v1.2.4...transifex-contentful-app-v1.2.5) (2024-09-03)
 
 

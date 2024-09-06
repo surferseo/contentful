@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.0.22](https://github.com/surferseo/contentful/compare/image-hotspot-creator-v1.0.21...image-hotspot-creator-v1.0.22) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2797](https://github.com/surferseo/contentful/issues/2797)) ([0346d29](https://github.com/surferseo/contentful/commit/0346d29884e939d0b707f7fd121e6a94c0c99542))
+* **deps:** bump axios and contentful in /apps/imageHotspotCreator ([#2514](https://github.com/surferseo/contentful/issues/2514)) ([62ca130](https://github.com/surferseo/contentful/commit/62ca130133b30276590885101f873e5ab218bcf5))
+* **deps:** Bump axios from 1.6.8 to 1.7.2 ([#2323](https://github.com/surferseo/contentful/issues/2323)) ([0ba5f18](https://github.com/surferseo/contentful/commit/0ba5f18db68defd2b073b207e56c8a13bc5b2767))
+* **deps:** bump axios from 1.7.4 to 1.7.5 ([#2637](https://github.com/surferseo/contentful/issues/2637)) ([ba82444](https://github.com/surferseo/contentful/commit/ba82444a209425e087ac1ff30c9e421b51f35b10))
+* **deps:** bump contentful from 10.8.4 to 10.12.3 ([#2188](https://github.com/surferseo/contentful/issues/2188)) ([8fb2f00](https://github.com/surferseo/contentful/commit/8fb2f0067f8322438d105f454452e0ad90ce329f))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/imageHotspotCreator in the production-dependencies group ([#2693](https://github.com/surferseo/contentful/issues/2693)) ([fe31626](https://github.com/surferseo/contentful/commit/fe31626455cf20181061d80fe839af4de1301e9a))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2742](https://github.com/surferseo/contentful/issues/2742)) ([6d5e8a8](https://github.com/surferseo/contentful/commit/6d5e8a87dbee068ed0ada8ed367f509a83c21f92))
+* **deps:** bump micromatch from 4.0.5 to 4.0.8 in /apps/imageHotspotCreator ([#2648](https://github.com/surferseo/contentful/issues/2648)) ([0db3653](https://github.com/surferseo/contentful/commit/0db3653ec2037dfdf870776fd770b7c4e9a110c2))
+* **deps:** Bump react-image-crop from 10.1.8 to 11.0.6 in /apps/imageHotspotCreator ([#2288](https://github.com/surferseo/contentful/issues/2288)) ([ddab5ee](https://github.com/surferseo/contentful/commit/ddab5ee42ecc4bce1294776d3eccd91ff1bdf821))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 13 updates ([#2641](https://github.com/surferseo/contentful/issues/2641)) ([95d5fce](https://github.com/surferseo/contentful/commit/95d5fce7d923dd0ee65f5992e52ed43b8a229f37))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 2 updates ([#2777](https://github.com/surferseo/contentful/issues/2777)) ([aa66ed8](https://github.com/surferseo/contentful/commit/aa66ed894cd465ae068fd70058644081df1cf889))
+* **deps:** bump webpack from 5.89.0 to 5.94.0 in /apps/imageHotspotCreator ([#2704](https://github.com/surferseo/contentful/issues/2704)) ([3f5401f](https://github.com/surferseo/contentful/commit/3f5401fa02afa976aeaa0654173a00cfeba74b72))
+* Handled Errors when there is a media without file ([#2344](https://github.com/surferseo/contentful/issues/2344)) ([63cb880](https://github.com/surferseo/contentful/commit/63cb880b21064ff55979506a011ca7397ceb989f))
+* Removed Hardcoded Locales and Improved Error Handlings ([#2125](https://github.com/surferseo/contentful/issues/2125)) ([0c10024](https://github.com/surferseo/contentful/commit/0c10024d57b73548a5e6173dd205edd0485ce4f7))
+* Updating the protocol of image url ([#2359](https://github.com/surferseo/contentful/issues/2359)) ([2c40be3](https://github.com/surferseo/contentful/commit/2c40be31688e51d53b070abd0ba60ca20b799648))
+
 ## [1.0.21](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.20...image-hotspot-creator-v1.0.21) (2024-09-03)
 
 

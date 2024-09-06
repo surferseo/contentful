@@ -1,5 +1,46 @@
 # Changelog
 
+## [1.0.23](https://github.com/surferseo/contentful/compare/surfer-contentful-app-v1.0.22...surfer-contentful-app-v1.0.23) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/app-sdk from 4.25.0 to 4.26.3 in /apps/surfer ([#2247](https://github.com/surferseo/contentful/issues/2247)) ([be9421b](https://github.com/surferseo/contentful/commit/be9421bbf7cdc1a788aaceb2094176403425a0c3))
+* **deps:** Bump @contentful/app-sdk from 4.26.3 to 4.28.0 in /apps/surfer ([#2272](https://github.com/surferseo/contentful/issues/2272)) ([53a8d14](https://github.com/surferseo/contentful/commit/53a8d14da8eab9bad7c0edc4d0b9ed63e8fc8e76))
+* **deps:** Bump @contentful/app-sdk from 4.28.0 to 4.29.0 in /apps/surfer ([#2337](https://github.com/surferseo/contentful/issues/2337)) ([b35f67d](https://github.com/surferseo/contentful/commit/b35f67d342c3decc36e5beba08780dd28793b62e))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/surfer ([#2540](https://github.com/surferseo/contentful/issues/2540)) ([e377363](https://github.com/surferseo/contentful/commit/e377363dece71c4e4eb68279df5c9853a5d53ce5))
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/surfer ([#2210](https://github.com/surferseo/contentful/issues/2210)) ([3e6ac59](https://github.com/surferseo/contentful/commit/3e6ac592a0e125f028d74f4f9b7ed2017f2c993d))
+* **deps:** Bump @contentful/f36-components from 4.67.1 to 4.67.2 in /apps/surfer ([#2289](https://github.com/surferseo/contentful/issues/2289)) ([f603ff6](https://github.com/surferseo/contentful/commit/f603ff601ba796e56c5b04ad041416117ee67b7b))
+* **deps:** Bump @contentful/f36-components from 4.67.2 to 4.67.3 in /apps/surfer ([#2318](https://github.com/surferseo/contentful/issues/2318)) ([8703dd4](https://github.com/surferseo/contentful/commit/8703dd485adfb403f98f49b1884ee3d665b50344))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/surfer ([#2397](https://github.com/surferseo/contentful/issues/2397)) ([fba4575](https://github.com/surferseo/contentful/commit/fba4575c590bb5c8a0b112cdc7e19ca97c5d0893))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/surfer ([#2490](https://github.com/surferseo/contentful/issues/2490)) ([27f7a30](https://github.com/surferseo/contentful/commit/27f7a300383f91178db803dcd2193ef163a2d0c9))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/surfer in the production-dependencies group ([#2785](https://github.com/surferseo/contentful/issues/2785)) ([293b6f5](https://github.com/surferseo/contentful/commit/293b6f5b1b414939cb5402cac652dfd1350ddc8a))
+* **deps:** Bump @contentful/f36-multiselect from 4.23.1 to 4.24.0 in /apps/surfer ([#2258](https://github.com/surferseo/contentful/issues/2258)) ([12dad28](https://github.com/surferseo/contentful/commit/12dad281f53828ef302b2925a64c82baa5fd5bb0))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.5.2 to 16.6.1 in /apps/surfer ([#2199](https://github.com/surferseo/contentful/issues/2199)) ([d8f1c66](https://github.com/surferseo/contentful/commit/d8f1c6648034e93bdad19cef38a2f30b8187001f))
+* **deps:** Bump @contentful/rich-text-html-renderer from 16.6.1 to 16.6.4 in /apps/surfer ([#2303](https://github.com/surferseo/contentful/issues/2303)) ([744cd87](https://github.com/surferseo/contentful/commit/744cd87855aae2ad43bf1d80614743743cc8f730))
+* **deps:** Bump @contentful/rich-text-html-renderer from 16.6.4 to 16.6.6 in /apps/surfer ([#2308](https://github.com/surferseo/contentful/issues/2308)) ([9ad87b7](https://github.com/surferseo/contentful/commit/9ad87b79daa82e099984da8b9564df80eed4c61b))
+* **deps:** Bump @contentful/rich-text-html-renderer from 16.6.6 to 16.6.7 in /apps/surfer ([#2348](https://github.com/surferseo/contentful/issues/2348)) ([b8450ee](https://github.com/surferseo/contentful/commit/b8450ee6222e061100d7d943717182d5cf66fc6f))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.7 to 16.6.8 in /apps/surfer ([#2373](https://github.com/surferseo/contentful/issues/2373)) ([6017239](https://github.com/surferseo/contentful/commit/6017239a00c2c273a07162d0a449ee209b5c9c75))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.8 to 16.6.9 in /apps/surfer in the production-dependencies group ([#2669](https://github.com/surferseo/contentful/issues/2669)) ([8aa6183](https://github.com/surferseo/contentful/commit/8aa6183e82c418b0939b6f6029c13ac66f3637b9))
+* **deps:** Bump @emotion/css from 11.11.2 to 11.13.0 in /apps/surfer ([#2309](https://github.com/surferseo/contentful/issues/2309)) ([539f6ad](https://github.com/surferseo/contentful/commit/539f6adf9fb059f56e3ff986337863673d44766f))
+* **deps:** bump contentful-management from 11.27.3 to 11.27.4 in /apps/surfer ([#2201](https://github.com/surferseo/contentful/issues/2201)) ([b17e69c](https://github.com/surferseo/contentful/commit/b17e69c2ce08380874caf32c7bb355bebfa96d92))
+* **deps:** Bump contentful-management from 11.27.4 to 11.27.5 in /apps/surfer ([#2246](https://github.com/surferseo/contentful/issues/2246)) ([5c196de](https://github.com/surferseo/contentful/commit/5c196de552cbfbef62639da5130829861dcbeb56))
+* **deps:** Bump contentful-management from 11.27.5 to 11.27.6 in /apps/surfer ([#2259](https://github.com/surferseo/contentful/issues/2259)) ([0670b30](https://github.com/surferseo/contentful/commit/0670b302cdb99daea4367aab309415322f8905cf))
+* **deps:** Bump contentful-management from 11.27.6 to 11.28.0 in /apps/surfer ([#2273](https://github.com/surferseo/contentful/issues/2273)) ([191c25c](https://github.com/surferseo/contentful/commit/191c25cd52a244e1de7cb74140af60c433716cef))
+* **deps:** Bump contentful-management from 11.28.0 to 11.29.0 in /apps/surfer ([#2280](https://github.com/surferseo/contentful/issues/2280)) ([4e8afd2](https://github.com/surferseo/contentful/commit/4e8afd25f14ca118049374a56e8015af8ebae183))
+* **deps:** Bump contentful-management from 11.29.0 to 11.29.1 in /apps/surfer ([#2302](https://github.com/surferseo/contentful/issues/2302)) ([407c9fd](https://github.com/surferseo/contentful/commit/407c9fd97357fb65502a90b0544f06aa93a727ee))
+* **deps:** Bump contentful-management from 11.29.1 to 11.30.1 in /apps/surfer ([#2320](https://github.com/surferseo/contentful/issues/2320)) ([df70a73](https://github.com/surferseo/contentful/commit/df70a73dfb2c8b333f6b9e4c5009fff06aa9e626))
+* **deps:** Bump contentful-management from 11.30.1 to 11.30.2 in /apps/surfer ([#2351](https://github.com/surferseo/contentful/issues/2351)) ([251f1ae](https://github.com/surferseo/contentful/commit/251f1aecb946e8f922949b5aa310a9d7b118dbf2))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/surfer ([#2420](https://github.com/surferseo/contentful/issues/2420)) ([de8f283](https://github.com/surferseo/contentful/commit/de8f283a46f548295a748f27b2c476dca4e2a7da))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/surfer ([#2422](https://github.com/surferseo/contentful/issues/2422)) ([395c741](https://github.com/surferseo/contentful/commit/395c741631297677ff094b0b6a73f3d49373d69b))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/surfer ([#2541](https://github.com/surferseo/contentful/issues/2541)) ([36cd7d3](https://github.com/surferseo/contentful/commit/36cd7d3fd32b9e36ce31fe60b1286267591010d4))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.6 in /apps/surfer ([#2554](https://github.com/surferseo/contentful/issues/2554)) ([e026280](https://github.com/surferseo/contentful/commit/e026280f3b2af9395004074ef95eb5dc224198da))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/surfer ([#2591](https://github.com/surferseo/contentful/issues/2591)) ([19f6761](https://github.com/surferseo/contentful/commit/19f6761d2e93913d0532d0bed258d898232ada17))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/surfer in the production-dependencies group ([#2609](https://github.com/surferseo/contentful/issues/2609)) ([3ea251e](https://github.com/surferseo/contentful/commit/3ea251e246a49c6ee7978932a824782b6f469ada))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/surfer in the production-dependencies group ([#2689](https://github.com/surferseo/contentful/issues/2689)) ([874a55a](https://github.com/surferseo/contentful/commit/874a55a6250f2aa3a7c408ccf08b3d4c4e28a86c))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/surfer in the production-dependencies group ([#2730](https://github.com/surferseo/contentful/issues/2730)) ([13a81ae](https://github.com/surferseo/contentful/commit/13a81aee5949285c440c16165144f4739cdaabcb))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/surfer in the production-dependencies group ([#2757](https://github.com/surferseo/contentful/issues/2757)) ([9631b45](https://github.com/surferseo/contentful/commit/9631b45ec131b0c2001d270b34b6f06bb7cf3410))
+
 ## [1.0.22](https://github.com/contentful/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.21...surfer-contentful-app-v1.0.22) (2024-09-03)
 
 

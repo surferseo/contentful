@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.5](https://github.com/surferseo/contentful/compare/shopify-sku-v2.0.4...shopify-sku-v2.0.5) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/shopify ([#2218](https://github.com/surferseo/contentful/issues/2218)) ([d0fc065](https://github.com/surferseo/contentful/commit/d0fc065570e560f0bb887f985eeb8553052c799d))
+* **deps:** Bump @contentful/f36-components from 4.67.1 to 4.67.2 in /apps/shopify ([#2294](https://github.com/surferseo/contentful/issues/2294)) ([92d4b97](https://github.com/surferseo/contentful/commit/92d4b97c1c1ace9af00814a9ec97aaa4b264a4b9))
+* **deps:** Bump @contentful/f36-components from 4.67.2 to 4.67.3 in /apps/shopify ([#2331](https://github.com/surferseo/contentful/issues/2331)) ([64c02f2](https://github.com/surferseo/contentful/commit/64c02f21786faca8f6675851c9796114070aee58))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/shopify ([#2391](https://github.com/surferseo/contentful/issues/2391)) ([a8dc1f8](https://github.com/surferseo/contentful/commit/a8dc1f8988f8ffe8ae3dc2db95b4cb858d9e3310))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/shopify ([#2492](https://github.com/surferseo/contentful/issues/2492)) ([4d5e309](https://github.com/surferseo/contentful/commit/4d5e3095d22aa7b0fcdea465e0454dfd3f916d61))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/shopify in the production-dependencies group ([#2800](https://github.com/surferseo/contentful/issues/2800)) ([ad192bc](https://github.com/surferseo/contentful/commit/ad192bc19d727adca88eb735f65eebac71aa4196))
+* **deps:** bump core-js from 3.37.1 to 3.38.0 in /apps/shopify ([#2440](https://github.com/surferseo/contentful/issues/2440)) ([21c1175](https://github.com/surferseo/contentful/commit/21c117529cbef55075662b8eaf67c5688088b24d))
+* **deps:** bump core-js from 3.38.0 to 3.38.1 in /apps/shopify ([#2574](https://github.com/surferseo/contentful/issues/2574)) ([33b488f](https://github.com/surferseo/contentful/commit/33b488fd5e3572a575bd6b729b595f11bded65ee))
+* **deps:** bump micromatch from 4.0.5 to 4.0.8 in /apps/shopify ([#2645](https://github.com/surferseo/contentful/issues/2645)) ([69e3f9e](https://github.com/surferseo/contentful/commit/69e3f9eae13f34a85f54ade3ab4d0485cfe3d1e6))
+
 ## [2.0.4](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.0.3...shopify-sku-v2.0.4) (2024-09-03)
 
 

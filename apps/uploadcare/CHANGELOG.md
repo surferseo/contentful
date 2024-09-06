@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.0.20](https://github.com/surferseo/contentful/compare/uploadcare-contentful-app-v1.0.19...uploadcare-contentful-app-v1.0.20) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.25.0 to 4.29.0 in /apps/uploadcare ([#2365](https://github.com/surferseo/contentful/issues/2365)) ([6862227](https://github.com/surferseo/contentful/commit/686222765cf67d5c4739b374f65cb22bb0c56bbd))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/uploadcare ([#2525](https://github.com/surferseo/contentful/issues/2525)) ([e8d44f2](https://github.com/surferseo/contentful/commit/e8d44f263c6b72120019ba26743ebecffa7daf1e))
+* **deps:** Bump @contentful/f36-components from 4.67.0 to 4.67.1 in /apps/uploadcare ([#2222](https://github.com/surferseo/contentful/issues/2222)) ([4d546d5](https://github.com/surferseo/contentful/commit/4d546d583df5feba492210c3360db029663ac4af))
+* **deps:** bump @contentful/f36-components from 4.67.1 to 4.67.4 in /apps/uploadcare ([#2442](https://github.com/surferseo/contentful/issues/2442)) ([b8c406b](https://github.com/surferseo/contentful/commit/b8c406b26fef53fdba357ac2fc2adc4af3544871))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/uploadcare ([#2487](https://github.com/surferseo/contentful/issues/2487)) ([ce603fc](https://github.com/surferseo/contentful/commit/ce603fcf6ba97d19b1489c5fe07f721bb1333880))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/uploadcare in the production-dependencies group ([#2790](https://github.com/surferseo/contentful/issues/2790)) ([30fea20](https://github.com/surferseo/contentful/commit/30fea20cc913326c7d8858dd7c250860b7270a91))
+* **deps:** bump @contentful/f36-icons from 4.28.2 to 4.29.0 in /apps/uploadcare ([#2413](https://github.com/surferseo/contentful/issues/2413)) ([ba46a36](https://github.com/surferseo/contentful/commit/ba46a36ef636983e4247d198d94443b6a627873c))
+* **deps:** bump @emotion/css from 11.11.2 to 11.13.0 in /apps/uploadcare ([#2451](https://github.com/surferseo/contentful/issues/2451)) ([0e0f324](https://github.com/surferseo/contentful/commit/0e0f32456a7bfd4dfda69e175221ba81c987e3f6))
+* **deps:** bump contentful-management from 11.27.3 to 11.27.4 in /apps/uploadcare ([#2205](https://github.com/surferseo/contentful/issues/2205)) ([729124e](https://github.com/surferseo/contentful/commit/729124ee635d3d65719760878655b03ee8aeb3b9))
+* **deps:** bump contentful-management from 11.27.4 to 11.31.1 in /apps/uploadcare ([#2432](https://github.com/surferseo/contentful/issues/2432)) ([4c73176](https://github.com/surferseo/contentful/commit/4c7317623bb0df181c2810a0ac7a2038a9c889cd))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.6 in /apps/uploadcare ([#2551](https://github.com/surferseo/contentful/issues/2551)) ([b59e130](https://github.com/surferseo/contentful/commit/b59e13085a081cb6f528db16582912d9d91b0dad))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/uploadcare ([#2601](https://github.com/surferseo/contentful/issues/2601)) ([b9b22ed](https://github.com/surferseo/contentful/commit/b9b22edede94632799922dd1287cb9f395d55aae))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/uploadcare in the production-dependencies group ([#2616](https://github.com/surferseo/contentful/issues/2616)) ([2b54a20](https://github.com/surferseo/contentful/commit/2b54a20edfe1e8f539a5557ca95d504b819448be))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/uploadcare in the production-dependencies group ([#2683](https://github.com/surferseo/contentful/issues/2683)) ([4558bf1](https://github.com/surferseo/contentful/commit/4558bf187a7da08e09a4df22f8ad57be1d6261c4))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/uploadcare in the production-dependencies group ([#2728](https://github.com/surferseo/contentful/issues/2728)) ([1c31c3e](https://github.com/surferseo/contentful/commit/1c31c3eb6411382ae2e506b677ac73d67bacd39f))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/uploadcare in the production-dependencies group ([#2775](https://github.com/surferseo/contentful/issues/2775)) ([7d3d110](https://github.com/surferseo/contentful/commit/7d3d1105f1e2988fd07e3015e86a34257129b80e))
+* **deps:** bump ws from 8.16.0 to 8.18.0 in /apps/uploadcare ([#2386](https://github.com/surferseo/contentful/issues/2386)) ([eac5ad0](https://github.com/surferseo/contentful/commit/eac5ad091f71a3a5f8b0604fb9beeb05d0bd1ff1))
+
 ## [1.0.19](https://github.com/contentful/marketplace-partner-apps/compare/uploadcare-contentful-app-v1.0.18...uploadcare-contentful-app-v1.0.19) (2024-09-03)
 
 

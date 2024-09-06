@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/surferseo/contentful/compare/xillio-transcreate-v1.0.2...xillio-transcreate-v1.0.3) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump react-hook-form from 7.51.3 to 7.52.0 ([#2189](https://github.com/surferseo/contentful/issues/2189)) ([d254443](https://github.com/surferseo/contentful/commit/d254443adc505caac3aa834db939a0bbee413945))
+* **deps:** bump react-hook-form from 7.52.0 to 7.52.2 ([#2617](https://github.com/surferseo/contentful/issues/2617)) ([35fb795](https://github.com/surferseo/contentful/commit/35fb79503eeae20e557c7490f598c3422f29574f))
+
 ## [1.0.2](https://github.com/contentful/marketplace-partner-apps/compare/xillio-transcreate-v1.0.1...xillio-transcreate-v1.0.2) (2024-09-03)
 
 

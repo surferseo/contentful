@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.5](https://github.com/surferseo/contentful/compare/bynder-content-workflow-v1.0.4...bynder-content-workflow-v1.0.5) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/rich-text-html-renderer from 16.5.2 to 16.6.8 in /apps/bynder-content-workflow ([#2402](https://github.com/surferseo/contentful/issues/2402)) ([6ee1772](https://github.com/surferseo/contentful/commit/6ee1772236a74ed6f19fd834a29b56ec753e5f54))
+* **deps:** bump contentful-management from 10.38.3 to 11.31.7 in /apps/bynder-content-workflow ([#2597](https://github.com/surferseo/contentful/issues/2597)) ([5b78ec1](https://github.com/surferseo/contentful/commit/5b78ec110410f44f4bc5ed99a4e5ae4f1913ab78))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 9 updates ([#2631](https://github.com/surferseo/contentful/issues/2631)) ([fa78dbd](https://github.com/surferseo/contentful/commit/fa78dbd47cd5b446baa0cbfdee07f2d07381a740))
+
 ## [1.0.4](https://github.com/contentful/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.3...bynder-content-workflow-v1.0.4) (2024-09-03)
 
 

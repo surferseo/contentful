@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.1.6](https://github.com/surferseo/contentful/compare/adapt-essentials-asset-fields-v1.1.5...adapt-essentials-asset-fields-v1.1.6) (2024-09-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.25.0 to 4.29.0 in /apps/adapt-essentials-asset-fields ([#2446](https://github.com/surferseo/contentful/issues/2446)) ([4310681](https://github.com/surferseo/contentful/commit/4310681cfe7bf8038c98aad30c2150adc5e87a20))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/adapt-essentials-asset-fields ([#2539](https://github.com/surferseo/contentful/issues/2539)) ([c472350](https://github.com/surferseo/contentful/commit/c472350775352cc6a0fb27b4995acf5ace1c39b0))
+* **deps:** bump @contentful/f36-components from 4.67.0 to 4.68.1 in /apps/adapt-essentials-asset-fields ([#2494](https://github.com/surferseo/contentful/issues/2494)) ([248e6f6](https://github.com/surferseo/contentful/commit/248e6f61e1461234684977483da297743a0810ce))
+* **deps:** bump @contentful/f36-image from 4.67.0 to 4.67.4 in /apps/adapt-essentials-asset-fields ([#2389](https://github.com/surferseo/contentful/issues/2389)) ([e99032c](https://github.com/surferseo/contentful/commit/e99032c13d0f5fff9550b3c7231785354e1fd6ba))
+* **deps:** bump axios, contentful-management and @contentful/app-scripts in /apps/adapt-essentials-asset-fields ([#2655](https://github.com/surferseo/contentful/issues/2655)) ([d77fefa](https://github.com/surferseo/contentful/commit/d77fefa32fce15db7e3a8f953505cd0d642f1e80))
+* **deps:** bump prettier from 3.3.2 to 3.3.3 in /apps/adapt-essentials-asset-fields ([#2443](https://github.com/surferseo/contentful/issues/2443)) ([bf2069d](https://github.com/surferseo/contentful/commit/bf2069dabd26492769c470b74ca318b3b8220a3f))
+* **deps:** bump react-focus-lock from 2.12.1 to 2.13.0 in /apps/adapt-essentials-asset-fields in the production-dependencies group ([#2673](https://github.com/surferseo/contentful/issues/2673)) ([7793e43](https://github.com/surferseo/contentful/commit/7793e43ae4498fa44459f84d03054b3e38fee261))
+* **deps:** bump react-focus-lock from 2.13.0 to 2.13.2 in /apps/adapt-essentials-asset-fields in the production-dependencies group ([#2690](https://github.com/surferseo/contentful/issues/2690)) ([e5628ee](https://github.com/surferseo/contentful/commit/e5628ee8dff3ffd4847c463e4e1db1a1c41a8fd6))
+* **deps:** bump react-router-dom from 6.23.1 to 6.26.0 in /apps/adapt-essentials-asset-fields ([#2504](https://github.com/surferseo/contentful/issues/2504)) ([f78d004](https://github.com/surferseo/contentful/commit/f78d004300f1aa3ab612de8e188bf590014b72ce))
+* **deps:** bump react-router-dom from 6.26.0 to 6.26.1 in /apps/adapt-essentials-asset-fields ([#2538](https://github.com/surferseo/contentful/issues/2538)) ([cc65e03](https://github.com/surferseo/contentful/commit/cc65e03f0b55c582db67663230bf9f9248f122f1))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#2606](https://github.com/surferseo/contentful/issues/2606)) ([c167935](https://github.com/surferseo/contentful/commit/c167935313db665d1f619caf0de2f9a27a822c0e))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#2787](https://github.com/surferseo/contentful/issues/2787)) ([51d6e1b](https://github.com/surferseo/contentful/commit/51d6e1b52b4c0123a74a38bdaa063dc8b547f324))
+
 ## [1.1.5](https://github.com/contentful/marketplace-partner-apps/compare/adapt-essentials-asset-fields-v1.1.4...adapt-essentials-asset-fields-v1.1.5) (2024-09-03)
 
 
