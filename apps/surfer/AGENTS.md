@@ -1,7 +1,7 @@
 # Agent Guide — surfer
 
 ## What This App Does
-Embeds the Surfer Content Editor panel (an iframe served by Surfer) in the Entry Sidebar and feeds it the entry's RichText content as HTML. All scoring happens inside the panel. Published as `surfer-contentful-app`.
+Helps you write and optimize content for SEO and GEO, right where you already work. Provides real-time SEO and GEO content scoring by embedding the Surfer Content Editor panel (an iframe served by Surfer) in the Entry Sidebar and feeding it the entry's RichText content as HTML. All scoring happens inside the panel. Published as `surfer-contentful-app`.
 
 ## Archetype
 Standard Vite app.
